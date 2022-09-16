@@ -5,6 +5,6 @@
         
         -Instagram: @ignartsvg
         
-        -Twitter: @Ignarts2019
+        -Twitter: @Ignartsvg
         
         -Gmail: ignarts2019@gmail.com
