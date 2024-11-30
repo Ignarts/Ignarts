@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ignacio and I'm a videogame Unity programer</h2>
+<h2 align="center">Hi 👋! My name is Ignacio and I'm a videogame Unity programer</h2>
 
 ###
 
