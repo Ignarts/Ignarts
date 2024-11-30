@@ -3,7 +3,13 @@
 ###
 
 <div align="center">
-  <p align="center">I am a junior programmer passionate and eager to learn every day.<br>Currently working on a multiplayer Unity spaceship racing game called Racer Loop.Also, I'm learning Multiplayer for Unity and creating my own library with useful functions.<br><br></p>
+  <p align="center">Hi there! I’m a Game Developer with over 2 years of experience working with Unity and C#, dedicated to creating immersive and dynamic gaming experiences. My passion for technology and problem-solving drives me to craft clean, efficient, and scalable solutions.
+
+📚 Currently, I’m expanding my skills by studying a Cross-Platform Application Development Program and pursuing a Master’s Degree in Full-Stack Development, focusing on enhancing my versatility as a developer.
+
+🔭 I’m always eager to explore new technologies, collaborate on exciting projects, and contribute to innovative solutions in game development and beyond.
+
+💡 Let's create something amazing together! Feel free to explore my repositories or reach out for collaboration.<br><br></p>
   <img src="https://github-readme-stats.vercel.app/api?username=Ignarts&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ignarts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
