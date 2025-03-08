@@ -30,6 +30,18 @@
 
 ###
 
+## 🌐 Web & Full-Stack Development  
+In addition to my experience in game development, I'm also skilled in web and full-stack development. I enjoy building dynamic and responsive web applications, leveraging modern technologies to create efficient and scalable solutions.  
+
+🔹 **Front-End**: React, Next.js, JavaScript, TypeScript  
+🔹 **Back-End**: Node.js, Express, .NET, C#  
+🔹 **Databases**: MongoDB, PostgreSQL, Firebase  
+🔹 **Tools & Technologies**: Docker, Git, CI/CD, Cloud Deployment  
+
+I'm always open to collaborating on web development projects, whether it's a single-page application, a full-stack project, or integrating game functionalities with web platforms. If you're working on something exciting, feel free to reach out! 🚀  
+
+###
+
 <div align="center">
   <a href="ignaciomelendezuriz@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
