@@ -62,15 +62,26 @@ My roots in **game development** shaped my thinking as an engineer:
 ### 📫 Let’s Connect
 
 <div align="center">
+  <div align="center">
+
+  <a href="https://www.ignarts.dev/portfolio.html" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox-browser&label=&color=fca326&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+
   <a href="mailto:ignaciomelendezuriz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
+
   <a href="https://www.linkedin.com/in/ignaciomelendezuriz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+
   <a href="https://twitter.com/ignartsvg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
   </a>
+
+</div>
+
 </div>
 
 ---
