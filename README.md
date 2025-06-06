@@ -17,6 +17,7 @@ I'm currently working as a **Backend Developer** at [**540deg**](https://540deg.
 - **TypeScript** / **Node.js**  
 - **Domain-Driven Design (DDD)**  
 - **Test-Driven Development (TDD)**
+- **Hexagonal Architecture**
 
 ---
 
