@@ -35,7 +35,7 @@ I'm currently working as a **Backend Developer** at [**540deg**](https://540deg.
 
 - 🎓 **Master’s Degree in Full-Stack Web Development** *(Ongoing)*  
 - 📱 **DAM (Cross-Platform App Development Program)** *(Ongoing)*
-- 🎮 Bachelor’s Degree in Game Design & Development, Creanavarra Centro Superior de Diseño (2019–2022)
+- 🎮 **Bachelor’s Degree in Game Design & Development, Creanavarra Centro Superior de Diseño (2019–2022)**
   - Focused on game mechanics, level design, Unity, C#, and the intersection of artistic design and software engineering
   - Developed complete games from concept to playable builds, applying principles of UX, narrative design, and interactive systems
 - 💻 Constantly exploring topics like distributed systems, game design patterns, and low-level system performance.
@@ -46,7 +46,7 @@ I'm currently working as a **Backend Developer** at [**540deg**](https://540deg.
 
 My roots in **game development** shaped my thinking as an engineer:
 - I build for **performance, user experience, and edge cases**
-- I’m used to **rapid iteration, debugging complex behaviors**, and shipping to real users  
+- I’m used to **rapid iteration, debugging complex behaviors**, and **shipping** to real users  
 - I’ve created procedural generation systems, gameplay mechanics, and custom tools in Unity using C#
 
 ---
