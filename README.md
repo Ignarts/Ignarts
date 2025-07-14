@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    👋 Welcome! I’m a passionate and versatile Software Developer with a solid foundation in <strong>game development</strong> and a growing expertise in <strong>backend and fullstack systems</strong>.
+    👋 Welcome! I’m a passionate and versatile Software Developer with a solid foundation in <strong>game development</strong> and a growing expertise in <strong>backend and fullstack systems</strong>. I am a curious and constantly evolving backend developer, committed to writing robust, maintainable and useful code to solve real problems. I am motivated by creating systems that work efficiently and make life easier for the end user.
     <br><br>
     With over <strong>2 years of hands-on experience in Unity and C#</strong>, I began my journey designing immersive, interactive worlds. Today, I apply that same creativity and precision to build <strong>scalable backend services</strong> and <strong>robust fullstack applications</strong>.
   </p>
@@ -12,12 +12,13 @@
 
 ### 💼 Current Role
 
-I'm currently working as a **Backend Developer** at [**540deg**](https://540deg.com), a software consultancy, where I help architect and implement modern systems using:
+I'm currently working as a **Backend Developer** at [**540deg**](https://540deg.com), a software consultancy, where we apply principles such as:
 
-- **TypeScript** / **Node.js**  
-- **Domain-Driven Design (DDD)**  
-- **Test-Driven Development (TDD)**
-- **Hexagonal Architecture**
+- ✅ **Test-Driven Development (TDD)** from the very beginning of development.  
+- 🧩 **Hexagonal Architecture** to keep the code decoupled and testable.  
+- 📈 **Incremental iteration**, with a focus on providing continuous value.
+
+I use tools like **Node.js**, **TypeScript**, **PostgreSQL** and **Docker** on a daily basis, within a modern and well-structured stack.
 
 ---
 
