@@ -12,7 +12,7 @@
 
 ### 💼 Current Role
 
-I'm currently working as a **Backend Developer** at [**540deg**](https://540deg.com), a software consultancy, where we apply principles such as:
+I'm currently working as a **Mobile Developer** at [**540deg**](https://540deg.com), a software consultancy, where we apply principles such as:
 
 - ✅ **Test-Driven Development (TDD)** from the very beginning of development.  
 - 🧩 **Hexagonal Architecture** to keep the code decoupled and testable.  
@@ -25,7 +25,7 @@ I use tools like **Node.js**, **TypeScript**, **PostgreSQL** and **Docker** on a
 ### 🛠️ Core Skills & Technologies
 
 - **Languages:** TypeScript, JavaScript, Java, C#, SQL  
-- **Frameworks:** Node.js, Spring, React, Unity  
+- **Frameworks:** Node.js, Spring, React, Expo, Unity  
 - **Tools:** VSCode, Git, Docker, Postman  
 - **Practices:** Clean Code, TDD, CI/CD, Agile (Scrum/Kanban)  
 - **Architectures:** DDD, Hexagonal
