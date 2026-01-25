@@ -1,101 +1,95 @@
-<h2 align="center">Hi, I'm Ignacio — Software Developer with a Creative Edge</h2>
+<h1 align="center">Hey, I'm Ignacio 👋</h1>
+<h3 align="center">From Building Worlds to Building Systems</h3>
+
+<p align="center">
+  <em>Mobile Developer at <a href="https://540deg.com">540deg</a> | Former Game Developer | Systems Thinker</em>
+</p>
+
+---
+
+I started my career crafting **interactive worlds in Unity**, designing game mechanics and procedural systems. Today, I channel that same creativity into building **scalable mobile and backend applications**.
+
+What game development taught me: **ship fast, handle edge cases, and never forget the end user.**
+
+---
+
+### 🔧 What I'm Working With
 
 <div align="center">
-  <p align="center">
-    👋 Welcome! I’m a passionate and versatile Software Developer with a solid foundation in <strong>game development</strong> and a growing expertise in <strong>backend and fullstack systems</strong>. I am a curious and constantly evolving backend developer, committed to writing robust, maintainable and useful code to solve real problems. I am motivated by creating systems that work efficiently and make life easier for the end user.
-    <br><br>
-    With over <strong>2 years of hands-on experience in Unity and C#</strong>, I began my journey designing immersive, interactive worlds. Today, I apply that same creativity and precision to build <strong>scalable backend services</strong> and <strong>robust fullstack applications</strong>.
-  </p>
+
+| Languages | Frameworks & Platforms | Tools & Practices |
+|:---------:|:----------------------:|:-----------------:|
+| TypeScript, JavaScript | React Native, Expo | TDD, Clean Code |
+| Java, C# | Node.js, Spring | Hexagonal Architecture |
+| SQL | Unity | Docker, Git, CI/CD |
+
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
 </div>
 
 ---
 
-### 💼 Current Role
+### 💼 Current Focus
 
-I'm currently working as a **Mobile Developer** at [**540deg**](https://540deg.com), a software consultancy, where we apply principles such as:
+At **540deg**, I build mobile applications with a focus on:
 
-- ✅ **Test-Driven Development (TDD)** from the very beginning of development.  
-- 🧩 **Hexagonal Architecture** to keep the code decoupled and testable.  
-- 📈 **Incremental iteration**, with a focus on providing continuous value.
+- **Test-Driven Development** — tests come first, always
+- **Hexagonal Architecture** — decoupled, testable, maintainable
+- **Incremental Delivery** — shipping value continuously
 
-I use tools like **Node.js**, **TypeScript**, **PostgreSQL** and **Docker** on a daily basis, within a modern and well-structured stack.
+---
+
+### 🎮 Game Dev Roots
+
+My foundation in game development shapes how I approach software:
+
+- **Performance-first mindset** — every millisecond matters
+- **Rapid iteration** — prototype, test, refine, repeat
+- **User-centric thinking** — if it's not intuitive, it's not done
+
+Built procedural generation systems, custom editor tools, and shipped games from concept to release.
+
+---
+
+### 📚 Background
+
+| | |
+|---|---|
+| 🎓 | **Master's in Full-Stack Web Development** *(In Progress)* |
+| 📱 | **Cross-Platform App Development (DAM)** *(In Progress)* |
+| 🎮 | **Bachelor's in Game Design & Development** — Creanavarra (2019–2022) |
+
+---
+
+### 📫 Let's Talk
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
----
-
-### 🛠️ Core Skills & Technologies
-
-- **Languages:** TypeScript, JavaScript, Java, C#, SQL  
-- **Frameworks:** Node.js, Spring, React, Expo, Unity  
-- **Tools:** VSCode, Git, Docker, Postman  
-- **Practices:** Clean Code, TDD, CI/CD, Agile (Scrum/Kanban)  
-- **Architectures:** DDD, Hexagonal
-
----
-
-### 📚 Education & Ongoing Learning
-
-- 🎓 **Master’s Degree in Full-Stack Web Development** *(Ongoing)*  
-- 📱 **DAM (Cross-Platform App Development Program)** *(Ongoing)*
-- 🎮 **Bachelor’s Degree in Game Design & Development, Creanavarra Centro Superior de Diseño (2019–2022)**
-  - Focused on game mechanics, level design, Unity, C#, and the intersection of artistic design and software engineering
-  - Developed complete games from concept to playable builds, applying principles of UX, narrative design, and interactive systems
-- 💻 Constantly exploring topics like distributed systems, game design patterns, and low-level system performance.
-
----
-
-### 🎮 Game Dev Background
-
-My roots in **game development** shaped my thinking as an engineer:
-- I build for **performance, user experience, and edge cases**
-- I’m used to **rapid iteration, debugging complex behaviors**, and **shipping** to real users  
-- I’ve created procedural generation systems, gameplay mechanics, and custom tools in Unity using C#
-
----
-
-### 🌟 What Sets Me Apart
-
-- 🧠 **Creative + Analytical**: I bridge creativity from game dev with engineering discipline from backend work  
-- 🤝 **Team-first mindset**: I value collaboration, feedback, and mentoring  
-- ⚡ **Execution-focused**: I’m pragmatic and ship solutions that are elegant and effective  
-- 📈 **Growth-driven**: Always learning, always improving  
-
----
-
-### 📫 Let’s Connect
-
-<div align="center">
-  <div align="center">
-
   <a href="https://www.ignarts.dev/portfolio.html" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox-browser&label=&color=fca326&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox-browser&label=&color=fca326&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
   </a>
-
   <a href="mailto:ignaciomelendezuriz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
   </a>
-
   <a href="https://www.linkedin.com/in/ignaciomelendezuriz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
   </a>
-
   <a href="https://twitter.com/ignartsvg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter" />
   </a>
-
-</div>
-
 </div>
